@@ -1,10 +1,10 @@
 # vuex-product-list
 
-> A Vue.js project
+This is a project to help me learn how to use Vue.js's state manager library Vuex with the help of this [tutorial](https://www.youtube.com/watch?v=BGAu__J4xoc&list=PL4cUxeGkcC9i371QO_Rtkl26MwtiJ30P2) from Net Ninja.
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
