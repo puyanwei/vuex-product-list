@@ -12,7 +12,6 @@
 
 <script>
 export default {
-  props: ["products"],
   name: "app",
   data() {
     return {};
